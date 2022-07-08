@@ -1,1 +1,6 @@
-# command-flutter
+# Flutter commands
+
+### Get packages
+```
+flutter pub get
+```
