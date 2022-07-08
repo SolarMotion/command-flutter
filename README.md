@@ -4,7 +4,6 @@
 ```sh
 flutter pub get
 ```
-<br/>
 
 ### Clean build files
 ```sh
@@ -15,4 +14,15 @@ flutter clean
 ```sh
 flutter upgrade
 ```
+
+### Check packages 
+```sh
+flutter pub outdated
+```
+
+### Upgrading packages only
+```sh
+flutter pub upgrade
+```
+
 
